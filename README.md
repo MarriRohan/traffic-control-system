@@ -1,4 +1,5 @@
  #PARALLEL AI - BASED TRAFFIC OPTIMIZARTION SYSTEM USING CPU AND GPU(CUDA)
+ 
 The development of the system follows a structured approach involving sequential processing, CPU-based parallel processing, and GPU-based parallel processing.
 
 Step 1: Input Collection
